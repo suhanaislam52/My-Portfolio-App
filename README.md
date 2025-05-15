@@ -1,16 +1,82 @@
-# portfolio_app
+# My Portfolio App
 
-A new Flutter project.
+A simple and clean portfolio app built using **Flutter** and developed in **Android Studio**. This project displays essential profile information such as your name, education, contact details, and a short bio in a visually appealing format.
 
-## Getting Started
+## 📱 Preview
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+| Home Screen |
+|-------------|
+| ![screenshot](screenshots/home.png) |
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+##  Features
+
+- 📸 Profile picture display
+- 👤 Name and designation
+- 🏫 Educational background
+- 📍 Location
+- 📧 Email and phone
+- 📝 Short bio
+- ✅ Clean layout with Material Design
+
+---
+
+##  Getting Started
+
+Follow these steps to set up and run the project locally on your machine:
+
+### 1. **Clone the repository**
+```bash
+git clone https://github.com/your-username/my-portfolio-app.git
+cd my-portfolio-app
+```
+### 2.**Install Dependencies**
+Make sure Flutter is installed and set up. Then, run:
+```bash
+flutter pub get
+```
+### 3.**Run the App**
+```bash
+flutter run
+```
+You can also run it directly from Android Studio by clicking the ▶️ Run button.
+
+## 📂 Folder Structure
+```bash
+my-portfolio-app/
+├── lib/
+│   └── main.dart          # Main app code
+├── images/
+│   └── profile.PNG        # Profile image used in the UI
+├── static/
+│   └── font/
+│       ├── Roboto-Medium.ttf
+│       └── Roboto-Light.ttf
+├── pubspec.yaml           # Project metadata and assets/fonts declaration
+└── README.md              # Project documentation (this file)
+```
+## Dependencies
+- Flutter SDK
+
+- Android API Upside Down Vanilla Ice Cream-14
+
+- Roboto font
+
+- Android Studio Meerkat Feature Version
+
+## Customization
+- Update profile info in lib/main.dart
+
+- Replace images/profile.PNG with your photo
+
+- Edit font files or switch to default system fonts if needed
+
+## 🧑‍💻 Author
+Suhana Islam
+Contact: suhanaislam52@gmail.com
+
+## 📄 License
+This project is licensed under the MIT License - see the LICENSE file for details.
+
