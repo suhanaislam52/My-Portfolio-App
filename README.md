@@ -67,6 +67,8 @@ my-portfolio-app/
 └── README.md              # Project documentation (this file)
 ```
 ## Dependencies
+- Flutter (Dart)
+  
 - Flutter SDK
 
 - Android API Upside Down Vanilla Ice Cream-14
@@ -84,6 +86,7 @@ my-portfolio-app/
 
 ## 🧑‍💻 Author
 Suhana Islam
+
 Contact: suhanaislam52@gmail.com
 
 ## 📄 License
