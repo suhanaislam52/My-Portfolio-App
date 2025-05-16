@@ -87,7 +87,6 @@ my-portfolio-app/
 ## 🧑‍💻 Author
 Suhana Islam
 
-Contact: suhanaislam52@gmail.com
 
 ## 📄 License
 This project is licensed under the MIT License - see the LICENSE file for details.
