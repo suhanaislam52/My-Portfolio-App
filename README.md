@@ -4,12 +4,11 @@ A simple and clean portfolio app built using **Flutter** and developed in **Andr
 
 ## 📱 Preview
 
-
 | Home Screen |
 |-------------|
-| ![screenshot](screenshots/home.png) |
+| <img src="images/view.png" alt="screenshot" width="300"/> |
 
----
+
 
 ##  Features
 
@@ -17,9 +16,9 @@ A simple and clean portfolio app built using **Flutter** and developed in **Andr
 - 👤 Name and designation
 - 🏫 Educational background
 - 📍 Location
-- 📧 Email and phone
+- 📧 Email and linkedlin,github links
+- 💻 Inetrested Field
 - 📝 Short bio
-- ✅ Clean layout with Material Design
 
 ---
 
