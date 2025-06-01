@@ -10,7 +10,6 @@ A simple and clean portfolio app built using **Flutter** and developed in **Andr
 
 
 
- 
 ##  Features
 
 - 📸 Profile picture display
