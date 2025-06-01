@@ -8,7 +8,7 @@ A simple and clean portfolio app built using **Flutter** and developed in **Andr
 |-------------|
 | <img src="images/view.png" alt="screenshot" width="300"/> |
 
-
+ 
 
 ##  Features
 
